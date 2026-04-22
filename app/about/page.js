@@ -242,7 +242,7 @@ export default function AboutDoctor() {
               transition={{ delay:0.32, duration:0.65 }}
               style={{ fontSize:15, color:"#6b7280", lineHeight:1.85, fontWeight:300, margin:"0 0 28px", maxWidth:480 }}
             >
-              A compassionate Gynaecologist and Fertility Specialist, Dr. Poornima has dedicated over a decade to transforming the lives of women and couples struggling with infertility. Her patient-first philosophy and mastery of advanced reproductive techniques make her one of Hyderabad's most trusted specialists.
+              A compassionate Gynaecologist and Fertility Specialist, Dr. Poornima has dedicated over a decade to transforming the lives of women and couples struggling with infertility. Her patient-first philosophy and mastery of advanced reproductive techniques make her one of Hyderabads most trusted specialists.
             </motion.p>
 
             {/* Credential cards */}
